@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_flow_trigger_plan">
+    <sys_flow_trigger_plan action="INSERT_OR_UPDATE">
+        <binding_strategy>com.snc.process_flow.engine.binding.OncePerRecord</binding_strategy>
+        <plan/>
+        <plan_id>cf29c5d24fe123007cf9045e9310c7bb</plan_id>
+        <snapshot>49de55e24f6123007cf9045e9310c7a6</snapshot>
+        <sys_class_name>sys_flow_trigger_plan</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-11-05 14:00:44</sys_created_on>
+        <sys_id>cd53d59a4fe123007cf9045e9310c709</sys_id>
+        <sys_mod_count>5</sys_mod_count>
+        <sys_name>8d53d59a4fe123007cf9045e9310c707</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_flow_trigger_plan_cd53d59a4fe123007cf9045e9310c709</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-11-06 09:29:29</sys_updated_on>
+        <trigger display_value="">8d53d59a4fe123007cf9045e9310c707</trigger>
+    </sys_flow_trigger_plan>
+</record_update>
